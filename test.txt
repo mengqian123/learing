@@ -1,0 +1,9 @@
+1.系统：Ubuntu18.04LTS（LTS表示长期支持版本）。 
+2.IDE（集成开发环境）：PyCharm18.1社区版（社区版免费）。 
+3.Python：使用的是Python3.6的版本。（Ubuntu18.04LTS自带Python3.6，不过在系统终端输入python(小写)默认启动的是Python2.7,在系统终端输入python3(小写)默认启动Python3.6）。 
+4.Django：使用的是Django2.1版本。
+--------------------- 
+作者：Lcoderfit 
+来源：CSDN 
+原文：https://blog.csdn.net/luhu124541/article/details/81606347 
+版权声明：本文为博主原创文章，转载请附上博文链接！
